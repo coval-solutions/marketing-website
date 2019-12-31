@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 310" width="310" height="310">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #67C7F1;stroke-linecap:round;stroke-width: 4 } 
+	</style>
+	<g id="scalable">
+		<g id="Group 559">
+			<path id="Path 779" class="shp0" d="M154.63 104.82L197.96 129.58L154.35 154.76L111.03 130L154.63 104.82Z" />
+			<g id="Group 556">
+				<g id="Group 555">
+					<path id="Path 780" class="shp0" d="M197.96 129.58L198.46 179.9L154.85 205.08L154.35 154.76L197.96 129.58Z" />
+				</g>
+			</g>
+			<g id="Group 558">
+				<g id="Group 557">
+					<path id="Path 781" class="shp0" d="M154.35 154.76L154.85 205.08L111.53 180.32L111.03 130L154.35 154.76Z" />
+				</g>
+			</g>
+		</g>
+		<g id="Group 568">
+			<g id="Group 560">
+				<path id="Path 782" class="shp0" d="M180.1 29.7L156.62 6.23L133.13 29.7" />
+				<path id="Line 95" class="shp0" d="M156.62 10.88L156.62 50.61L156.62 10.88Z" />
+			</g>
+			<g id="Group 561">
+				<path id="Path 783" class="shp0" d="M84.11 48.45L50.91 48.47L50.89 81.67" />
+				<path id="Line 96" class="shp0" d="M54.19 51.75L82.28 79.84L54.19 51.75Z" />
+			</g>
+			<g id="Group 562">
+				<path id="Path 784" class="shp0" d="M29.49 129.59L6.02 153.08L29.49 176.57" />
+				<path id="Line 97" class="shp0" d="M10.67 153.08L50.4 153.07L10.67 153.08Z" />
+			</g>
+			<g id="Group 563">
+				<path id="Path 785" class="shp0" d="M48.24 225.59L48.25 258.79L81.46 258.8" />
+				<path id="Line 98" class="shp0" d="M51.54 255.51L79.63 227.41L51.54 255.51Z" />
+			</g>
+			<g id="Group 564">
+				<path id="Path 786" class="shp0" d="M225.38 261.45L258.58 261.44L258.59 228.24" />
+				<path id="Line 99" class="shp0" d="M255.29 258.16L227.2 230.07L255.29 258.16Z" />
+			</g>
+			<g id="Group 565">
+				<path id="Path 787" class="shp0" d="M280 180.32L303.47 156.83L280 133.34" />
+				<path id="Line 100" class="shp0" d="M298.82 156.83L259.09 156.84L298.82 156.83Z" />
+			</g>
+			<g id="Group 566">
+				<path id="Path 788" class="shp0" d="M129.38 280.21L152.87 303.68L176.36 280.21" />
+				<path id="Line 101" class="shp0" d="M152.87 299.03L152.86 259.3L152.87 299.03Z" />
+			</g>
+			<g id="Group 567">
+				<path id="Path 789" class="shp0" d="M261.24 84.32L261.23 51.12L228.03 51.1" />
+				<path id="Line 102" class="shp0" d="M257.94 54.4L229.86 82.5L257.94 54.4Z" />
+			</g>
+		</g>
+	</g>
+</svg>

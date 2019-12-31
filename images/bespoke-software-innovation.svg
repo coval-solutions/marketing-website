@@ -1,0 +1,36 @@
+<svg id="shuttle_icon" data-name="shuttle icon" xmlns="http://www.w3.org/2000/svg" width="190" height="220" viewBox="0 0 190 220">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #67C7F1;
+        stroke-linecap: round;
+        stroke-width: 5.17px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="innovation">
+    <g>
+      <path id="Path_588" data-name="Path 588" class="cls-1" d="M45.319,151.9A51.323,51.323,0,0,0,46.351,112.5a51.282,51.282,0,0,1,1.038-39.4h0a51.494,51.494,0,0,1,67.993-26.107l0.009,0a51.5,51.5,0,0,1,26.094,68h0a51.3,51.3,0,0,1-28.6,27.134A51.357,51.357,0,0,0,84.3,169.256Z"/>
+      <path id="Path_589" data-name="Path 589" class="cls-1" d="M45.319,151.9L28.558,189.549l2.234,13.067,25.538,11.37,11.2-7.083L84.3,169.256Z"/>
+      <path id="Path_590" data-name="Path 590" class="cls-1" d="M32.753,180.126L67.534,206.9Z"/>
+      <path id="Path_591" data-name="Path 591" class="cls-1" d="M40.608,162.483l34.781,26.776Z"/>
+      <path id="Path_592" data-name="Path 592" class="cls-1" d="M83.5,136.685A7.355,7.355,0,1,0,70.057,130.7h0l-11.97,26.885,13.438,5.983L83.5,136.685h0Z"/>
+      <path id="Path_593" data-name="Path 593" class="cls-1" d="M73.17,127.316l1.1-42.256A14.725,14.725,0,0,0,93.7,77.6a10.4,10.4,0,0,0,13.433,5.992,14.712,14.712,0,0,0,7.465,19.426l-30.66,29.093,30.66-29.093a14.714,14.714,0,0,1-7.465-19.426A10.4,10.4,0,0,1,93.7,77.6a14.725,14.725,0,0,1-19.435,7.46Z"/>
+      <path id="Path_594" data-name="Path 594" class="cls-1" d="M131.094,11.7l-7.856,17.644Z"/>
+      <path id="Path_595" data-name="Path 595" class="cls-1" d="M12.1,57.37l17.644,7.856Z"/>
+      <path id="Path_596" data-name="Path 596" class="cls-1" d="M176.783,130.693l-17.651-7.859Z"/>
+      <path id="Path_597" data-name="Path 597" class="cls-1" d="M178.572,61.732L160.54,68.655Z"/>
+      <path id="Path_598" data-name="Path 598" class="cls-1" d="M62.14,9.894l6.922,18.033Z"/>
+      <path id="Path_599" data-name="Path 599" class="cls-1" d="M10.3,126.327l18.032-6.922Z"/>
+      <path id="Path_600" data-name="Path 600" class="cls-1" d="M126.733,178.166l-6.922-18.033Z"/>
+      <path id="Path_601" data-name="Path 601" class="cls-1" d="M96.794,3.955l-1.013,38.6Z"/>
+      <path id="Path_602" data-name="Path 602" class="cls-1" d="M184.538,96.4l-38.612-1.016Z"/>
+      <path id="Path_603" data-name="Path 603" class="cls-1" d="M4.342,91.675l38.615,1.008Z"/>
+      <path id="Path_604" data-name="Path 604" class="cls-1" d="M156.482,159.412l-26.6-28.026Z"/>
+      <path id="Path_605" data-name="Path 605" class="cls-1" d="M32.394,28.67l26.6,28Z"/>
+      <path id="Path_606" data-name="Path 606" class="cls-1" d="M159.8,32l-28,26.586Z"/>
+    </g>
+  </g>
+</svg>

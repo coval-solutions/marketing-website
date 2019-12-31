@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 200" width="120" height="200">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #67C7F1;stroke-width: 4 } 
+	</style>
+	<g id="Bespoke Solution">
+		<g id="cross device">
+			<g id="smartphone">
+				<g id="Phone">
+					<path id="Rectangle 1768" class="shp0" d="M20.65 2.58L97.72 2.58C108.01 2.58 116.33 10.9 116.33 21.19L116.33 179.2C116.33 189.49 108.01 197.81 97.72 197.81L20.65 197.81C10.36 197.81 2.04 189.49 2.04 179.2L2.04 21.19C2.04 10.9 10.36 2.58 20.65 2.58Z" />
+					<path id="Rectangle 1769" class="shp0" d="M22.48 12.67L95.9 12.67C101.62 12.67 106.24 17.29 106.24 23.01L106.24 177.37C106.24 183.09 101.62 187.71 95.9 187.71L22.48 187.71C16.76 187.71 12.14 183.09 12.14 177.37L12.14 23.01C12.14 17.29 16.76 12.67 22.48 12.67Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

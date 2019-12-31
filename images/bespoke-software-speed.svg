@@ -1,0 +1,15 @@
+<svg id="speed" xmlns="http://www.w3.org/2000/svg" width="360" height="255" viewBox="0 0 360 255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #67C7F1;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1792_copy_3" data-name="Rectangle 1792 copy 3" class="cls-1" x="348" y="108" width="6" height="66"/>
+  <rect id="Rectangle_1792_copy_3-2" data-name="Rectangle 1792 copy 3" class="cls-1" x="315" y="1" width="6" height="130"/>
+  <rect id="Rectangle_1792_copy_3-3" data-name="Rectangle 1792 copy 3" class="cls-1" x="284" y="73" width="6" height="116"/>
+  <rect id="Rectangle_1792_copy_2" data-name="Rectangle 1792 copy 2" class="cls-1" x="66" y="147" width="6" height="66"/>
+  <rect id="Rectangle_1792_copy" data-name="Rectangle 1792 copy" class="cls-1" x="33" y="46" width="6" height="130"/>
+  <rect class="cls-1" x="2" y="112" width="6" height="143"/>
+</svg>
